@@ -1,0 +1,6 @@
+streamlit==1.32.0
+ollama==0.1.6
+plotly==5.18.0
+pandas==2.1.0
+Pillow==10.0.0
+requests==2.31.0
